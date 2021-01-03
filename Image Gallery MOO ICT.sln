@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Gallery MOO ICT", "Image Gallery MOO ICT\Image Gallery MOO ICT.csproj", "{AAA958DC-0567-4722-88FB-598EE59CAED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA958DC-0567-4722-88FB-598EE59CAED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA958DC-0567-4722-88FB-598EE59CAED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA958DC-0567-4722-88FB-598EE59CAED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA958DC-0567-4722-88FB-598EE59CAED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F9AA19-58B6-419A-834F-B22D85FB8462}
+	EndGlobalSection
+EndGlobal
